@@ -11,5 +11,4 @@ Espero que os sea de utilidad y no dudéis en pasarlo a quien lo necesite.
 Atentamente:
 Fernando
 
-Redes:
-      Twitter: @fernirepullo
+Twitter: @fernirepullo
