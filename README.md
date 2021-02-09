@@ -7,8 +7,3 @@ Este bot ha sido creado con la intención de ayudar a la gente que está un poco
 En las diferentes actualizaciones del bot se irán añadiendo más personajes, talentos, etc...
 
 Espero que os sea de utilidad y no dudéis en pasarlo a quien lo necesite.
-
-Atentamente:
-Fernando
-
-Twitter: @fernirepullo
